@@ -1,0 +1,10 @@
+.index {
+background: url('/img/background.jpg') repeat center;
+}
+.title{
+align: center;
+font-weight:bold;
+}
+.subtitle{
+align: center;
+}
